@@ -5,6 +5,7 @@ input signal
 
 This repository is consist of 2 major parts, a android app as a client program and server-side program written in PHP and python.
 They are under Project folder and server folder respectively.
+
 ![image](https://user-images.githubusercontent.com/21137152/41682816-a5d8edd4-748d-11e8-8069-75ab9731acf2.png)
 
 ## Requirement
